@@ -39,4 +39,6 @@ directory
 11. I am happy to answer any further questions! 
 Contact me via mwenner@vaw.baug.ethz.ch
 
-
+References:
+Fontaine, F. R., Barruol, G., Kennett, B. L., Bokelmann, G. H. & Reymond, D. (2009), ‘Upper mantle anisotropy beneath australia and tahiti from p wave polarization: Implications for real-time earthquake location’, Journal of Geophysical Research: Solid Earth 114(B3).
+Scholz, J.-R., Barruol, G., Fontaine, F. R., Sigloch, K., Crawford, W. C. & Deen, M. (2017), ‘Orient- ing ocean-bottom seismometers from p-wave and rayleigh wave polarizations’, Geophysical Journal International 208(3), 1277–1289.
