@@ -1,0 +1,7 @@
+1. ppol_analysis_v0 and v1 are essentially the same code. v0 is the version I
+used for my Masterthesis. v1 is a slightly cleaned up version which has not
+been tested. Hence I am sure that there are a few errors, but they should be easy to fix.
+
+2. Path to response file, WAV directory need to be change
+
+./Volumes/LS_M2/PpolPackage-master/response/SAC_PZs_XX_SPOBS2_SHZ_00_2001.001.00.00.00.0000_2021.001.24.60.60.99999
